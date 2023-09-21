@@ -13,10 +13,11 @@
 * OS : Ubuntu 22.04
 * C++ 14
 * ROS2 Humble
+* Required Packages - Turtlebot3, Gazebo (https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/#pc-setup)
 
 ## Build Instructions
 
-1. Clone the repo to `ros2ws/src'
+1. Clone the repo to `ros2ws/src`
 2. ```
     cd ..
     colcon build --packages-select autobot
